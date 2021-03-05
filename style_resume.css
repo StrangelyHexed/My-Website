@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 100vh;
+  width: 100%;
+  background-image: url("/photos/bucketBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

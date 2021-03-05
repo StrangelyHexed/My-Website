@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  position: fixed;
+  height: 100vh;
+  width: 100%;
+  background-image: url("/photos/flowerPaper.webp");
+  background-position: center;
+  background-size: cover;
+  box-sizing: border-box;
+
+  background-repeat: no-repeat;
+}
+
+.Projects {
+  position: relative;
+  margin-top: 20%;
+  margin-left: 20%;
+  margin-right: 40%;
+  background-color: rgba(255, 255, 255, 0.466);
+  border: 2px solid rgba(128, 128, 128, 0.808);
+}
+
+.PortfolioHeading {
+  margin-left: 20px;
+}
+
+.EasyProjects {
+  margin-left: 20px;
+}
+
+.EasyProjects ul li {
+  margin-left: 30px;
+}
+
+.IntermediateProjects {
+  margin-left: 20px;
+}
+
+.IntermediateProjects ul li {
+  margin-left: 30px;
+}
+
+.AdvanceProjects {
+  margin: 20px;
+}
+
+.AdvanceProjects ul li {
+  margin: 30px;
+}
